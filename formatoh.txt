@@ -1,0 +1,25 @@
+// Universidad de La Laguna
+// Escuela Superior de Ingeniería y Tecnología
+// Grado en Ingeniería Informática
+// Asignatura: *Asignatura
+// Curso: 3º
+// Práctica *numero : *nombre_practica
+// Autor: javier Gómez Alayón
+// Correo: alu0101562445@ull.edu.es
+// Fecha: *date
+// Archivo ¬ : Declaración de la clase *programa_sin_cc
+//        En este fichero se declara la clase *programa_sin_cc
+//
+// Historial de revisiones
+//        *date - Creación (primera versión) del código
+#ifndef C_*programa_sin_cc_H
+#define C_*programa_sin_cc_H
+
+class *programa_sin_cc {
+ public:
+  *programa_sin_cc();
+ private:
+ 
+};
+
+#endif
